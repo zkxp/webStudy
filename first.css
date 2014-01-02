@@ -1,0 +1,25 @@
+li strong {
+	font-style: italic;
+	font-weight: normal;
+}
+strong {
+     color: red;
+     }
+
+h2 {
+     color: red;
+     }
+
+h2 strong {
+     color: blue;
+     }
+
+#red {
+	 color: red;
+     }
+[title=w3School]{
+	border: 5px solid blue;
+}
+body div{
+	background-color: gray;
+}

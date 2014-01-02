@@ -1,0 +1,14 @@
+.form-div{
+	margin: 100px auto;
+	border: 5px yellow solid;
+	width: 500px;
+
+	padding: 5px;
+}
+form div{
+	padding: 5px;
+	position: absolute;
+}
+.pass{
+	letter-spacing: 5px;
+}
