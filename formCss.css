@@ -7,8 +7,11 @@
 }
 form div{
 	padding: 5px;
-	position: absolute;
+	
 }
-.pass{
-	letter-spacing: 5px;
+
+form div div {
+	width: 180px;
+	text-align: right;
+	float: left;
 }
